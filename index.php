@@ -107,18 +107,18 @@
         </div>
         <ul class="rightnav" id="myRightnav">
             <li><a title="Home" href="#Sander Wegdam" class="w3-btn s12 l6 w3-btn-block w3-hover-blue w3-padding-hor-16" style="background: rgba(0,0,0,0.7);">
-                    <span title="user-icon" class="glyphicon glyphicon-user" aria-hidden="true"></span></a></li>
+                    <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a></li>
             <li><a title="Werkervaring" href="#Werkervaring" class="w3-btn w3-btn-block w3-hover-dark-blue w3-padding-hor-16" style="background: rgba(0,0,0,0.7)">
-                    <span title="thumbs-up-icon" class="glyphicon glyphicon-list-alt" aria-hidden="true"></span></a>
+                    <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span></a>
             </li>
             <li><a title="Interesses" href="#Interesses" class="w3-btn w3-btn-block w3-hover-dark-grey w3-padding-hor-16" style="background: rgba(0,0,0,0.7)">
-                    <span title="glyphicon-comment" class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span></a></li>
+                    <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span></a></li>
         </ul>
     </nav>
     <div class="w3-row">
         <div class="w3-col s12 l6 w3-half w3-black w3-container w3-center" style="border-style:solid; height:600px; border-radius:15px; border-color:transparent;" id="Curriculum Vitae">
             <div class="w3-padding-hor-64 w3-center">
-            <span style="vertical-align:top; margin-left:10px;" class="border border-white border-0"><i class="glyphicon glyphicon-user" style="font-size:26px;" aria-hidden="true"></i>
+            <span style="vertical-align:top; margin-left:10px;" class="border border-white border-0"><i class="fa-solid fa-file-lines" style="font-size:30px;" aria-hidden="true"></i>
                     <h2 class="well" style="margin-top:30px; background-color:rgba(0, 0, 0, 0.5); margin-bottom:-40px; padding-left:-15px;">Curriculum Vitae</h2>
                 </span>
             </div>
