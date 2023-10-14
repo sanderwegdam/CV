@@ -29,7 +29,7 @@
     <meta name='HandheldFriendly' content='True'>
     <meta content="index,follow" />
     <meta name="Robots" content="index,follow" />
-    <link rel="icon" href="images/favicon.png" />
+    <link rel="icon" href="images/favicon.ico" />
     <link rel="apple-touch-icon" href="images/favicon.ico" />
     <link rel="apple-touch-icon" sizes="72x72" href="images/favicon.ico" />
     <meta name="rating" content="general" />
