@@ -6,9 +6,9 @@
     <meta name="description" content="Sander Wegdam is een webdesigner- developer en werkt met de scripttalen PHP en JavaScript." />
     <meta name="dc.creator" content="Sander Wegdam" />
     <meta name="dc.title" content="CV- Sander Wegdam" />
-    <meta name="dc.language" CONTENT="NL">
-    <meta name="dc.keywords" CONTENT="CV,Sander,Wegdam">
-    <meta name="dc.subject" CONTENT="CV - Sander Wegdam">
+    <meta name="dc.language" content="NL">
+    <meta name="dc.keywords" content="CV,Sander,Wegdam">
+    <meta name="dc.subject" content="CV - Sander Wegdam">
     <meta name="dc.creator.keyword" content="Sander Wegdam - Web Developer" />
     <meta name="dc.creator.email" content="sanderwegdam@gmail.com" />
     <meta name="dc.description" content="Sander Wegdam is een Web developer." />
@@ -19,14 +19,14 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Sander Wegdam, specialiseert zich in het ontwikkelen van webapplicaties in PHP frameworks." />
     <meta name="twitter:title" content="Sander Wegdam" />
-    <meta NAME="geo.position" CONTENT="latitude; longitude">
-    <meta NAME="geo.placename" CONTENT="Overdinkel">
-    <meta NAME="geo.region" CONTENT="NL">
+    <meta name="geo.position" content="latitude; longitude">
+    <meta name="geo.placename" content="Overdinkel">
+    <meta name="geo.region" content="NL">
     <meta property="og:title" content="CV - Sander Wegdam" />
     <meta property="og:description" content="CV Sander Wegdam" />
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <meta name="MobileOptimized" content="240">
-    <meta name='HandheldFriendly' content='True'>
+    <meta name="HandheldFriendly" content="True">
     <meta content="index,follow" />
     <meta name="Robots" content="index,follow" />
     <link rel="icon" href="images/favicon.ico" />
@@ -54,8 +54,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/solid.min.css" integrity="sha512-wQ0aDa8upf/3Fun6Qby6g8uXyPqKl54VpEO/SwjjqxeUwThb6TIP5kloJ2tOHqnjLsd88S5p1VoOIXEl42mHYg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/nav.css">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
     <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
@@ -116,7 +116,7 @@
     <div class="w3-row">
         <div class="w3-col s12 l6 w3-half w3-black w3-container w3-center" style="border-style:solid; height:600px; border-radius:15px; border-color:transparent;" id="Curriculum Vitae">
             <div class="w3-padding-hor-64 w3-center">
-            <span style="vertical-align:top; margin-left:10px;" class="border border-white border-0"><i class="glyphicon glyphicon-user" style=font-size:26px; aria-hidden="true"></i>
+            <span style="vertical-align:top; margin-left:10px;" class="border border-white border-0"><i class="glyphicon glyphicon-user" style="font-size:26px;" aria-hidden="true"></i>
                     <h2 class="well" style="margin-top:30px; background-color:rgba(0, 0, 0, 0.5); margin-bottom:-40px; padding-left:-15px;">Curriculum Vitae</h2>
                 </span>
             </div>
@@ -130,10 +130,8 @@
             <div class="w3-padding-hor-64 w3-center">
                 <img src="images/sanderwegdam.jpg" class="w3-circle w3-margin" title="Sander Wegdam" alt="Sander Wegdam" style="width:100px">
                 <p>
-                <p>
-                <p>
+                </p>
                 <div class="w3-center-align w3-padding-large w3-border">
-                    <p>
                     <h6>Als Web Developer werken in teamverband en mijn expertise doorgeven.</h6>
                     <p>Programmeren in de scripttalen JavaScript en PHP,
                         daarnaast ontwikkelen in Web frameworks.</p>
@@ -147,77 +145,75 @@
                 <div class="w3-padding-hor-64 w3-center" style="text-align:left; display:inline-block;">
                     <h2 class="well">Over mij</h2><br>
                     <p>
-                    <h6><b>Voornaam:</b>&nbsp;Sander</b></h6>
+                    <h6><strong>Voornaam:</strong>&nbsp;Sander</h6>
                     </p>
                     <p>
-                    <h6><b>Achternaam:</b> &nbsp;Wegdam</b></h6>
+                    <h6><strong>Achternaam:</strong> &nbsp;Wegdam</h6>
                     </p>
                     <p>
-                    <h6><b>Geslacht:</b> &nbsp;Man</b></h6>
+                    <h6><strong>Geslacht:</strong> &nbsp;Man</h6>
                     </p>
                     <p>
-                    <h6><b>Geboortedatum:</b> &nbsp;07-04-1989</b></h6>
+                    <h6><strong>Geboortedatum:</strong> &nbsp;07-04-1989</h6>
                     </p><br><br>
                     <p>
-                    <h6><b>Adres:</b> &nbsp;Kerkhofweg 193</b></h6>
+                    <h6><strong>Adres:</strong> &nbsp;Kerkhofweg 193</h6>
                     </p>
                     <p>
-                    <h6><b>Postcode:</b>&nbsp;7586 AD</b></h6>
+                    <h6><strong>Postcode:</strong>&nbsp;7586 AD</h6>
                     </p>
                     <p>
-                    <h6><b>Woonplaats:</b> &nbsp;Overdinkel</b></h6>
+                    <h6><strong>Woonplaats:</strong> &nbsp;Overdinkel</h6>
                     </p><br><br>
                     <p>
-                    <h6><b>Telefoon:</b> &nbsp;053-5386708</b></h6>
+                    <h6><strong>Telefoon:</strong> &nbsp;053-5386708</h6>
                     </p>
                     <p>
-                    <h6><b>Mobiel:</b> &nbsp;06 37605436</b></h6>
+                    <h6><strong>Mobiel:</strong> &nbsp;06 37605436</h6>
                     </p>
                     <p>
-                    <h6><b>E-mail:</b> &nbsp;sanderwegdam@gmail.com</b></h6>
+                    <h6><strong>E-mail:</strong> &nbsp;sanderwegdam@gmail.com</h6>
                     </p>
                 </div>
                 <div class="block">
                     <div class="w3-padding-hor-64 w3-center" style="text-align:left; display:inline-block;">
                         <h2 class="well">Opleidingen</h2><br>
                         <p>
-                        <h4><b>Vooropleiding 1</b></h4>
+                        <h4><strong>Vooropleiding 1</strong></h4>
                         </p><br><br>
-                        </h4>Twents Carmel College Losser</h4><br>
+                        Twents Carmel College Losser<br>
                         <p>
-                        <p><b>Niveau:</b>&nbsp;&nbsp;TGL (Theoretisch Gemengde Leerweg)</b></p>
+                        <p><strong>Niveau:</strong>&nbsp;&nbsp;TGL (Theoretisch Gemengde Leerweg)</p>
                         </p>
                         <p><br>
                         <p><br>
-                        <h4><b>Vooropleiding 2</b></h4>
+                        <h4><strong>Vooropleiding 2</strong></h4>
                         </p><br><br>
                         <p>
-                            </h4>Beeld en Media</h4>
+                        Beeld en Media
                         </p>
                         <p>Roc van Twente 'De Maere', Enschede</p>
                         <p>
-                        <p><b>Niveau:</b>&nbsp;&nbsp;MBO</b></p>
+                        <p><strong>Niveau:</strong>&nbsp;&nbsp;MBO</p>
                         </p>
                         <p>
-                        <p><b>Afstudeerrichting:</b>&nbsp;&nbsp;Mediavormgever (webdesign)</b></p>
+                        <p><strong>Afstudeerrichting:</strong>&nbsp;&nbsp;Mediavormgever (webdesign)</p>
                         </p>
                         <p><br>
                         <p>
-                        <h4><br><b>Hoogst genoten opleiding</b></h4>
-                        </p><br><br>Informatiedienstverlening en Management</p>Human Information Design & Strategy (HIDS)
+                        <h4><br><strong>Hoogst genoten opleiding</strong></h4>
+                        </p><br><br>Informatiedienstverlening en Management</p>Human Information Design &amp; Strategy (HIDS)
                         <p>
-                        <p><b>Niveau:</b>&nbsp;&nbsp;HBO (Associate Degree)</b></p>
+                        <p><strong>Niveau:</strong>&nbsp;&nbsp;HBO (Associate Degree)</p>
                         </p>
                         <p>
-                        <p><b>Instelling: </b>&nbsp;&nbsp;Saxion Hogeschool Deventer</b></p>
+                        <p><strong>Instelling: </strong>&nbsp;&nbsp;Saxion Hogeschool Deventer</p>
                         </p>
                         <p>
-                        <p><b>Startjaar: </b>&nbsp;&nbsp;1e helft 2011</b></p>
+                        <p><strong>Startjaar: </strong>&nbsp;&nbsp;1e helft 2011</p>
                         </p>
-                        <p>
-                        <p><b>Eindjaar: </b>&nbsp;&nbsp;2e helft 2014</b></p>
+                        <p><strong>Eindjaar: </strong>&nbsp;&nbsp;2e helft 2014</p>
                         </p>
-                        <p></p>
                     </div>
                 </div>
             </div>
@@ -228,7 +224,7 @@
             <div class="w3-padding-hor-64 w3-center">
                 <h2>Werk</h2>
                 <p>Werkervaring - Vaardigheden
-                <p><br>
+                </p><br>
                 <div class="w3-container w3-responsive">
                     <table class="w3-table">
                         <tr>
@@ -292,9 +288,9 @@
                                 <p>2015 - 2019</p>
                                 <p>Vrijwilligerswerk: <span style="font-size:13.4px;">De Kringloop "Het Ketelhuis"</span></p>
                             </td>
-                            <td class="title-size">Computers up to date maken.<p>
+                            <td class="title-size">Computers up to date maken.<p></p>
                                 <p class="text-size">De computers die binnenkomen voorzien van een nieuw besturingssysteem en klaarmaken voor de verkoop.
-                                <p>
+                                </p>
                             </td>
                         </tr>
                         <tr>
@@ -304,9 +300,9 @@
                         <tr class="w3-white">
                             <td>
                                 <p>2018, 9 mei</p>
-                                <p>LOI: <span style="font-size:13.4px;">"PHP & MySQL Professional"</span></p>
+                                <p>LOI: <span style="font-size:13.4px;">"PHP &amp; MySQL Professional"</span></p>
                             </td>
-                            <td class="title-size">Programmeren in PHP met MySQL.<p>
+                            <td class="title-size">Programmeren in PHP met MySQL.<p></p>
                                 <p class="text-size">
                                     Vooral functionaliteiten van CRUD (Create, Read, Update and Delete) kwamen aanbod, het
                                     toevoegen, wijzigen en verwijderen van gegevens uit de database.
@@ -404,7 +400,7 @@
                                 <p style="margin-top:-10px; font-size:11pt;">Adobe XD</p>
                             </td>
                             <td>
-                                <p><i class="fa fa-check" style="font-size:11pt;" aria-hidden="true"></i> HTML5 & CSS3</p>
+                                <p><i class="fa fa-check" style="font-size:11pt;" aria-hidden="true"></i> HTML5 &amp; CSS3</p>
                                 <p style="margin-top:-10px;">
                                     <i class="fa fa-check" style="font-size:11pt; margin-top:-10px; margin-bottom:2px;" aria-hidden="true"></i>
                                     JavaScript
@@ -460,7 +456,7 @@
         </div>
     </div>
     <footer class="w3-container w3-black w3-padding-hor-16" style="margin-top:10px;">
-        <small style="font-size:90%; display: flex; justify-content:center; text-align:center;">&#169; Sander Wegdam</a></small>
+        <small style="font-size:90%; display: flex; justify-content:center; text-align:center;">&#169; Sander Wegdam</small>
     </footer>
 </body>
 </html>
