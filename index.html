@@ -106,7 +106,7 @@
                 <span title="collapse-icon" class="fa fa-angle-down" aria-hidden="true"></span></a>
         </div>
         <ul class="rightnav" id="myRightnav">
-            <li><a title="Home" href="#Sander Wegdam" class="w3-btn s12 l6 w3-btn-block w3-hover-blue w3-padding-hor-16" style="background: rgba(0,0,0,0.7);">
+            <li><a title="Home" href="#Home" class="w3-btn s12 l6 w3-btn-block w3-hover-blue w3-padding-hor-16" style="background: rgba(0,0,0,0.7);">
                     <span class="glyphicon glyphicon-user" aria-hidden="true"></span></a></li>
             <li><a title="Werkervaring" href="#Werkervaring" class="w3-btn w3-btn-block w3-hover-dark-blue w3-padding-hor-16" style="background: rgba(0,0,0,0.7)">
                     <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span></a>
@@ -123,12 +123,12 @@
                 </span>
             </div>
             <div class="w3-padding-hor-32 w3-center w3-margin">
-                <a title="Sander Wegdam" href="#Sander Wegdam" class="w3-btn w3-btn-block w3-hover-blue w3-padding-hor-16">Home</a>
+                <a title="Sander Wegdam" href="#Home" class="w3-btn w3-btn-block w3-hover-blue w3-padding-hor-16">Home</a>
                 <a title="Werkervaring" href="#Werkervaring" class="w3-btn w3-btn-block w3-hover-dark-blue w3-padding-hor-16">Vaardigheden</a>
                 <a title="Interesses" href="#Interesses" class="w3-btn w3-btn-block w3-hover-dark-grey w3-padding-hor-16">Interesses</a>
             </div>
         </div>
-        <div class="w3-col s12 l6 w3-half w3-blue w3-container" id="Sander Wegdam" style="border-style:solid; height:600px; border-radius:15px; border-color:transparent;">
+        <div class="w3-col s12 l6 w3-half w3-blue w3-container" id="Home" style="border-style:solid; height:600px; border-radius:15px; border-color:transparent;">
             <div class="w3-padding-hor-64 w3-center">
                 <img src="images/sanderwegdam.jpg" class="w3-circle w3-margin" title="Sander Wegdam" alt="Sander Wegdam" style="width:100px">
                 <p>
@@ -142,7 +142,7 @@
         </div>
     </div>
     <div class="w3-row img-thumbnail">
-        <div class="w3-col s12 l5 w3-half w3-center gray-block" style="min-height: 1749px; background: rgba(0,0,0,0.0);" id="Over mij">
+        <div class="w3-col s12 l5 w3-half w3-center gray-block" style="min-height: 1749px; background: rgba(0,0,0,0.0);" id="Over-mij">
             <div style="text-align:center;">
                 <div class="w3-padding-hor-64 w3-center" style="text-align:left; display:inline-block;">
                     <h2 class="well">Over mij</h2><br>

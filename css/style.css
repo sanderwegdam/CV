@@ -19,12 +19,21 @@ section,
 summary {
   display: block;
 }
+
+html, body{
+  scroll-behavior: smooth;
+}
+
 html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
 body {
   margin: 0;
+}
+
+#Home, #Werkervaring, #Interesses{
+  scroll-snap-align: start;
 }
 
 .fa-angle-down {
