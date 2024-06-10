@@ -387,8 +387,8 @@
                                 <p>2022, 20 december - <br /> 2024, 23 mei</p>
                                 <p>Re-integratietraject<br />bij Visie Groep <span style="font-size:13.4px;"></span></p>
                             </td>
-                            <td class="text-size">Bij Visie Groep volgde ik een re-integratietraject om in de IT of als
-                                Online marketeer aan het werk te kunnen, waarbij ik werkte aan opdrachten gerelateerd aan
+                            <td class="text-size">Bij Visie Groep volgde ik een re-integratietraject om in de IT of in
+                                de online marketing aan het werk te kunnen, waarbij ik werkte aan opdrachten gerelateerd aan
                                 Front-end webdevelopment en mijn studie "Online marketing en adverteren".</td>
                         </tr>
                         <tr>
