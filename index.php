@@ -384,11 +384,12 @@
                         </tr>
                         <tr class="w3-white">
                             <td>
-                                <p>Heden</p>
-                                <p>Re-integratietraject<br/>bij Visie Groep <span style="font-size:13.4px;"></span></p>
+                                <p>2022, 20 december - 2024, 23 mei</p>
+                                <p>Re-integratietraject<br />bij Visie Groep <span style="font-size:13.4px;"></span></p>
                             </td>
-                            <td class="text-size">Bij Visie Groep volg ik een re-integratietraject om in de IT aan het werk te kunnen, daar werk ik
-                            aan opdrachten die gerelateerd zijn aan Front-end webdevelopment.</td>
+                            <td class="text-size">Bij Visie Groep volg ik een re-integratietraject om in de IT of als
+                                Online marketeer aan het werk te kunnen, waarbij ik werk aan opdrachten gerelateerd aan
+                                Front-end webdevelopment en mijn studie "Online marketing en adverteren".</td>
                         </tr>
                         <tr>
                             <th>Tools</th>
