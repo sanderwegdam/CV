@@ -419,7 +419,6 @@
                         <img src="images/Certificaat-HBO-Online-marketing-en-adverteren.jpg">
                         <img src="images/Diploma-Front-end-Developer.jpg">
                         <img src="images/Resultatenlijst-Diploma-Front-end-developer.jpg">
-                        <img src="images/Diploma-Front-end-Developer.jpg">
                         <img src="images/javascript-specialist-certificate.png">
                         <img src="images/Certificaat-Front-end-developer-App-design-en-development.jpg">
                         <img src="images/Certificaat-Front-end-developer-Contentmanagement.jpg">
