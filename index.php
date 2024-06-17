@@ -416,17 +416,17 @@
                     </table>
                     <p style="margin-bottom: 90px;"></p>
                     <div class="fotorama" data-width="700" data-allowfullscreen="true" data-ratio="700/467" data-max-width="100%">
-                        <img src="images/Studieverklaring-LOI-PHP&MySQL.jpg">
-                        <img src="images/Studieverklaring-LOI-Programmeren-in-Javascript.jpg">
-                        <img src="images/Certificaat-Front-end-developer-HTML5-CSS3.jpg">
-                        <img src="images/Certificaat-Front-end-developer-Contentmanagement.jpg">
-                        <img src="images/Getuigschrift-Junior-software-developer1.jpg">
-                        <img src="images/Getuigschrift-Junior-software-developer2.jpg">
-                        <img src="images/Certificaat-Front-end-developer-App-design-en-development.jpg">
-                        <img src="images/javascript-specialist-certificate.png">
-                        <img src="images/Diploma-Front-end-Developer.jpg">
+                        <img src="images/Certificaat-HBO-Online-marketing-en-adverteren.jpg">
                         <img src="images/Resultatenlijst-Diploma-Front-end-developer.jpg">
-                        <img src="images/Certificaat-HBO-Online-marketing-en-adverteren-17-6-2024.jpg">
+                        <img src="images/Diploma-Front-end-Developer.jpg">
+                        <img src="images/javascript-specialist-certificate.png">
+                        <img src="images/Certificaat-Front-end-developer-App-design-en-development.jpg">
+                        <img src="images/Certificaat-Front-end-developer-Contentmanagement.jpg">
+                        <img src="images/Certificaat-Front-end-developer-HTML5-CSS3.jpg">
+                        <img src="images/Getuigschrift-Junior-software-developer2.jpg">
+                        <img src="images/Getuigschrift-Junior-software-developer1.jpg">
+                        <img src="images/Studieverklaring-LOI-Programmeren-in-Javascript.jpg">
+                        <img src="images/Studieverklaring-LOI-PHP&MySQL.jpg">
                     </div>
                 </div>
             </div>
