@@ -423,8 +423,8 @@
                         <img src="images/Certificaat-Front-end-developer-App-design-en-development.jpg">
                         <img src="images/Certificaat-Front-end-developer-Contentmanagement.jpg">
                         <img src="images/Certificaat-Front-end-developer-HTML5-CSS3.jpg">
-                        <img src="images/Getuigschrift-Junior-software-developer2.jpg">
                         <img src="images/Getuigschrift-Junior-software-developer1.jpg">
+                        <img src="images/Getuigschrift-Junior-software-developer2.jpg">
                         <img src="images/Studieverklaring-LOI-Programmeren-in-Javascript.jpg">
                         <img src="images/Studieverklaring-LOI-PHP&MySQL.jpg">
                     </div>
