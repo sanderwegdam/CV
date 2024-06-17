@@ -400,7 +400,7 @@
                                 <p>2024, 17 juni</p>
                                 <p>LOI:<br />"HBO-programma - Online marketing en adverteren" <span style="font-size:13.4px;"></span></p>
                             </td>
-                            <td class="text-size">Het schrijven van een online marketingplan voor de nieuwe lijn Philips' OLED-televisies, waarbij de inzet van SEO, SEA en advertising op social media aanbod kwamen.</td>
+                            <td class="text-size">Het schrijven van een online marketingplan voor de nieuwe lijn Philips' OLED-televisies, waarbij de inzet van SEO, SEA en adverteren op social media aanbod kwamen.</td>
                         </tr>
                         <tr>
                             <th>Tools</th>
