@@ -417,6 +417,7 @@
                     <p style="margin-bottom: 90px;"></p>
                     <div class="fotorama" data-width="700" data-allowfullscreen="true" data-ratio="700/467" data-max-width="100%">
                         <img src="images/Certificaat-HBO-Online-marketing-en-adverteren.jpg">
+                        <img src="images/Diploma-Front-end-Developer.jpg">
                         <img src="images/Resultatenlijst-Diploma-Front-end-developer.jpg">
                         <img src="images/Diploma-Front-end-Developer.jpg">
                         <img src="images/javascript-specialist-certificate.png">
