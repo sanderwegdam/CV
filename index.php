@@ -349,7 +349,7 @@
                             </td>
                             <td class="title-size">De basis skills van het programmeren leren.<p></p>
                                 <p class="text-size">Het traject (voltijd) heeft in totaal ruim 4 maanden geduurd. In C# programmeren, back-end programmeren en werken met (relationele) databases.
-                                    Front-end programmeren: HTML, CSS, JavaScript, Frameworks (JQuery en Bootstrap) kwamen aanbod.
+                                    Front-end programmeren: HTML, CSS, JavaScript, Frameworks (JQuery en Bootstrap) kwamen aan bod.
                                     We hebben daarbij samengewerkt in scrumgroepen. </p>
                             </td>
                         </tr>
@@ -400,7 +400,7 @@
                                 <p>2024, 17 juni</p>
                                 <p>LOI:<br />"HBO-programma - Online marketing en adverteren" <span style="font-size:13.4px;"></span></p>
                             </td>
-                            <td class="text-size">Het schrijven van een fictief online marketingplan voor de nieuwe lijn Philips' OLED-televisies, waarbij de inzet van SEO, SEA en adverteren op social media aanbod kwamen.</td>
+                            <td class="text-size">Het schrijven van een fictief online marketingplan voor de nieuwe lijn Philips' OLED-televisies, waarbij de inzet van SEO, SEA en adverteren op social media aan bod kwam.</td>
                         </tr>
                         <tr>
                             <th>Tools</th>
