@@ -119,7 +119,7 @@
         <div class="w3-col s12 l6 w3-half w3-black w3-container w3-center" style="border-style:solid; height:600px; border-radius:15px; border-color:transparent;" id="Curriculum Vitae">
             <div class="w3-padding-hor-64 w3-center">
             <span style="vertical-align:top; margin-left:10px;" class="border border-white border-0"><i class="fa-solid fa-file-lines" style="font-size:30px;" aria-hidden="true"></i>
-                    <h2 class="well" style="margin-top:30px; background-color:rgba(0, 0, 0, 0.5); margin-bottom:-40px; padding-left:-15px;">Curriculum Vitae</h2>
+                    <h1 class="well" style="margin-top:30px; background-color:rgba(0, 0, 0, 0.5); margin-bottom:-40px; padding-left:-15px;">Curriculum Vitae</h1>
                 </span>
             </div>
             <div class="w3-padding-hor-32 w3-center w3-margin">
