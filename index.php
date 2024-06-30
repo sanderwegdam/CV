@@ -444,9 +444,9 @@
                     <h2 class="h2" style="margin-top:-10px; padding-left:-15px; margin-bottom:-40px;">Interesses</h2>
                 </span>
                 <div class="w3-padding-hor-64" style="text-align:center; display:inline-block;">
-                    <p>&bull;Contentbeheer websites</p>
-                    <p>&bull;Het volgen van Webontwikkelingen</p>
-                    <p>&bull;Wielrennen is een passie van mij</p>
+                    <p>&bull; Contentbeheer websites</p>
+                    <p>&bull; Het volgen van Webontwikkelingen</p>
+                    <p>&bull; Wielrennen is een passie van mij</p>
                 </div>
             </div>
         </div>
@@ -464,7 +464,7 @@
         </div>
     </div>
     <footer class="w3-container w3-black w3-padding-hor-16" style="margin-top:10px;">
-        <small style="font-size:90%; display: flex; justify-content:center; text-align:center;">&#169;Sander Wegdam</small>
+        <small style="font-size:90%; display: flex; justify-content:center; text-align:center;">&#169; Sander Wegdam</small>
     </footer>
 </body>
 </html>
