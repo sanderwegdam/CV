@@ -180,7 +180,7 @@ textarea {
 
 html,
 body {
-  font-family: Verdana, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 15px;
   line-height: 1.5;
 }
@@ -195,7 +195,7 @@ h5,
 h6,
 .w3-slim,
 .w3-wide {
-  font-family: "Segoe UI", Arial, sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 h1 {
   font-size: 36px;
