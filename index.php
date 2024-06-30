@@ -119,7 +119,7 @@
                 <p>
                 </p>
                 <div class="w3-center-align w3-padding-large w3-border">
-                    <h6>Als Web Developer werken in teamverband en mijn expertise doorgeven.</h6>
+                    <p>Als Web Developer werken in teamverband en mijn expertise doorgeven.</p>
                     <p>Programmeren in de scripttalen JavaScript en PHP,
                         daarnaast ontwikkelen in Web frameworks.</p>
                 </div>
