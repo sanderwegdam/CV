@@ -1031,9 +1031,7 @@ input[type="radio"].w3-radio:disabled + .w3-validate {
   }
 }
 @media (max-width: 795px) and (min-width: 460px) {
-  .w3-padding-hor-32 {
-    margin-top: -120px;
-  }
+  
   .w3-hide-medium {
     display: none !important;
   }

@@ -103,7 +103,7 @@ p {
 
 .i .fa {
   position: relative;
-  top: 0px;
+  top: 10px;
 }
 
 .h2 {
@@ -185,12 +185,12 @@ h5 {
 @media screen and (min-width: 460px) and (max-width: 795px) {
   .i .fa {
     position: relative;
-    top: 120px;
+    top: 10px;
   }
 
   .h2 {
     position: relative;
-    top: 120px;
+    top: 10px;
     color: rgb(255, 255, 255);
   }
 
@@ -204,12 +204,12 @@ h5 {
 @media screen and (min-width: 795px) and (max-width: 901px) {
   .i .fa {
     position: relative;
-    top: 0px;
+    top: 10px;
   }
 
   .h2 {
     position: relative;
-    top: 0px;
+    top: 10px;
     color: white;
   }
 
@@ -306,12 +306,12 @@ h5 {
 
   .i .fa {
     position: relative;
-    top: 0px;
+    top: 10px;
   }
 
   .h2 {
     position: relative;
-    top: 0px;
+    top: 10px;
     color: white;
   }
 
