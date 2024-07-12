@@ -412,8 +412,8 @@
                     </table>
                     <p style="margin-bottom: 90px;"></p>
                     <div class="fotorama" data-width="700" data-allowfullscreen="true" data-ratio="700/467" data-max-width="100%">
-                        <img src="images/Certificaat-HBO-programma-Online-marketing-en-adverteren.jpg"
-                            alt="Certificaat HBO-programma Online marketing en adverteren">
+                        <img src="images/Diploma-HBO-programma-Online-marketing-en-adverteren.jpg" alt="Diploma HBO programma Online marketing en adverteren">
+                        <img src="images/Resultatenlijst-Diploma-HBO-programma-Online-marketing-en-adverteren.jpg" alt="Resultatenlijst Diploma HBO programma Online marketing en adverteren">
                         <img src="images/Diploma-Front-end-Developer.jpg" alt="Diploma Front end Developer">
                         <img src="images/Resultatenlijst-Diploma-Front-end-developer.jpg"
                             alt="Resultatenlijst Diploma Front en developer">
