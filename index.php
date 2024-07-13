@@ -440,7 +440,7 @@
         <div class="w3-col s12 l6 w3-half w3-dark-grey w3-container w3-center" style="height:480px; text-align:center; border-style:solid; border-radius:15px; border-color:transparent;">
             <div class="w3-padding-hor-32" style="display:inline-block;">
                 <span class="i" style="vertical-align:top;">
-                    <i class="fa fa-hand-o-up fa-2x" aria-hidden="true" style="margin-top:50px; margin-bottom:30px; margin-left:10px"></i>
+                    <i class="fa fa-thumbs-o-up fa-2x" aria-hidden="true" style="margin-top:50px; margin-bottom:30px; margin-left:10px"></i>
                     <h2 class="h2" style="margin-top:-10px; padding-left:-15px; margin-bottom:-40px;">Interesses</h2>
                 </span>
                 <div class="w3-padding-hor-64" style="text-align:center; display:inline-block;">
