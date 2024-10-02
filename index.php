@@ -369,9 +369,9 @@
                         <tr class="w3-white">
                             <td>
                                 <p>2022, 20 december - <br /> 2024, 23 mei</p>
-                                <p>Leerwerktraject<br />bij Visie Groep <span style="font-size:13.4px;"></span></p>
+                                <p>Leerwerktraject<br />UWV<span style="font-size:13.4px;"></span></p>
                             </td>
-                            <td class="text-size">Bij Visie Groep volgde ik een leerwerktraject, waarbij ik werkte aan
+                            <td class="text-size">Via het UWV volgde ik een leerwerktraject, waarbij ik werkte aan
                             opdrachten gerelateerd aan front-end development en mijn studie "Online marketing en adverteren".</td>
                         </tr>
                         <tr>
