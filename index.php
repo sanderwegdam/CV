@@ -206,7 +206,7 @@
             <br>
             <p></p>
         </div>
-        <div class="w3-col s12 l7 w3-half w3-dark-blue w3-container" id="Werkervaring" style="min-height:1749px">
+        <div class="w3-col s12 l7 w3-half w3-dark-blue" id="Werkervaring" style="min-height:1749px">
             <div class="w3-padding-hor-64 w3-center">
                 <h2>Werk</h2>
                 <p>Werkervaring - Vaardigheden
